@@ -24,4 +24,4 @@ CSS: Flexbox principalmente
 6. consumo de apis
 7. se acostumar a acompanhar documentação
 
-8. Como funciona o package.json  e o diretório node_modules 
+8. Como funciona o package.json  e o diretório node_modules
